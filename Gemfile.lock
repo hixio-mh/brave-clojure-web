@@ -4,7 +4,7 @@ GEM
     RedCloth (4.2.9)
     adsf (1.2.0)
       rack (>= 1.0.0)
-    asciidoctor (1.5.2)
+    asciidoctor (1.5.8)
     breakpoint (2.5.0)
       sass (~> 3.3)
       sassy-maps (< 1.0.0)
